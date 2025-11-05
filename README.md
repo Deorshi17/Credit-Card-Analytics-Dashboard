@@ -144,15 +144,20 @@ Total Metrics:
 
 
 ## Dashboard/Model/Output
-**Dashboard 1: Credit Card Transaction Report**
+***Dashboard 1: Credit Card Transaction Report***
 
 **Purpose:** Comprehensive transaction analysis and card performance tracking
 
 **Key Components:**
-- **KPI Cards:** Revenue ($57M), Interest ($8M), Transaction Amount ($45.5M), Transaction Count (667.2K)
-- **Quarter Filters:** Q1, Q2, Q3, Q4 for temporal analysis
-- **Card Performance Table:** Revenue, transaction amounts, and interest by card type
-- **Dual-axis Chart:** QTR revenue and transaction count correlation
+
+**KPI Cards:** Revenue ($57M), Interest ($8M), Transaction Amount ($45.5M), Transaction Count (667.2K)
+
+**Quarter Filters:** Q1, Q2, Q3, Q4 for temporal analysis
+
+**Card Performance Table:** Revenue, transaction amounts, and interest by card type
+
+**Dual-axis Chart:** QTR revenue and transaction count correlation
+
 **Demographic Breakdowns:**
 
 - Revenue by expenditure type (6 categories)
@@ -163,17 +168,22 @@ Total Metrics:
 
 **Use Case:** Product management, marketing strategy, financial planning
 
-**Dashboard 2: Credit Card Customer Report**
+***Dashboard 2: Credit Card Customer Report***
 
 **Purpose:** Deep-dive customer analysis and demographic segmentation
 
 **Key Visualizations:**
 
-- **KPI Cards:** Revenue, Interest, Total Income ($587.6M), Customer Satisfaction Score (3.19)
-- **Revenue by Week:** Dual-line chart comparing male vs female trends (Jan-Oct 2023)
-- **Age Group Analysis:** Stacked bars showing revenue by gender across age brackets
-- **Customer Job Table:** Detailed metrics (revenue, interest, income) by profession
-- **Geographic Analysis:** Top 5 states with gender split (TX, NY, CA, FL, NJ)
+**KPI Cards:** Revenue, Interest, Total Income ($587.6M), Customer Satisfaction Score (3.19)
+
+**Revenue by Week:** Dual-line chart comparing male vs female trends (Jan-Oct 2023)
+
+**Age Group Analysis:** Stacked bars showing revenue by gender across age brackets
+
+**Customer Job Table:** Detailed metrics (revenue, interest, income) by profession
+
+**Geographic Analysis:** Top 5 states with gender split (TX, NY, CA, FL, NJ)
+
 **Demographic Segmentation:**
 
  - Revenue by marital status (Married $29M, Single $24M)
@@ -184,7 +194,7 @@ Total Metrics:
 
 **Use Case:** Customer relationship management, targeted marketing, risk assessment
 
-**Dashboard 3: Weekly Performance & Insights**
+***Dashboard 3: Weekly Performance & Insights***
 
 **Purpose:** Real-time monitoring of weekly metrics and operational health
 
