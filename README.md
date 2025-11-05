@@ -153,13 +153,14 @@ Total Metrics:
 - **Quarter Filters:** Q1, Q2, Q3, Q4 for temporal analysis
 - **Card Performance Table:** Revenue, transaction amounts, and interest by card type
 - **Dual-axis Chart:** QTR revenue and transaction count correlation
-- **Demographic Breakdowns:**
+**Demographic Breakdowns:**
 
- - Revenue by expenditure type (6 categories)
- - Revenue by education level (6 levels)
- - Revenue by customer job (6 professions)
- - Customer acquisition cost by card type
- - Revenue by payment method (3 types)
+- Revenue by expenditure type (6 categories)
+- Revenue by education level (6 levels)
+- Revenue by customer job (6 professions)
+- Customer acquisition cost by card type
+- Revenue by payment method (3 types)
+
 **Use Case:** Product management, marketing strategy, financial planning
 
 **Dashboard 2: Credit Card Customer Report**
@@ -173,7 +174,7 @@ Total Metrics:
 - **Age Group Analysis:** Stacked bars showing revenue by gender across age brackets
 - **Customer Job Table:** Detailed metrics (revenue, interest, income) by profession
 - **Geographic Analysis:** Top 5 states with gender split (TX, NY, CA, FL, NJ)
-- **Demographic Segmentation:**
+**Demographic Segmentation:**
 
  - Revenue by marital status (Married $29M, Single $24M)
  - Revenue by income group (High earners dominate at $30M)
