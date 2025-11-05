@@ -1,5 +1,5 @@
 # **Credit Card Analytics Dashboard**
-A comprehensive Power BI dashboard for real-time credit card operations monitoring and customer behavior analysis.
+**A comprehensive Power BI dashboard for real-time credit card operations monitoring and customer behavior analysis.**
 ## Overview
 This project develops an interactive business intelligence solution that transforms raw credit card transaction and customer data into actionable insights. The dashboard enables stakeholders to monitor key performance metrics, track revenue trends, analyze customer demographics, and make data-driven decisions to optimize credit card operations. Built using PostgreSQL for data management and Power BI for visualization, the system processes over 667K transactions and provides weekly performance analysis with automated KPI tracking.
 
