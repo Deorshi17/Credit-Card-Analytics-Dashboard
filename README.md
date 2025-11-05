@@ -48,7 +48,7 @@ Total Metrics:
 - Total Interest: $8M
 - Transaction Amount: $45.5M
 
-## 🛠️Tools and Technologies
+## Tools and Technologies
 
 | Technology | Purpose |
 |------------|---------|
@@ -149,23 +149,17 @@ Total Metrics:
 **Purpose:** Comprehensive transaction analysis and card performance tracking
 
 **Key Components:**
+- **KPI Cards:** Revenue ($57M), Interest ($8M), Transaction Amount ($45.5M), Transaction Count (667.2K)
+- **Quarter Filters:** Q1, Q2, Q3, Q4 for temporal analysis
+- **Card Performance Table:** Revenue, transaction amounts, and interest by card type
+- **Dual-axis Chart:** QTR revenue and transaction count correlation
+- **Demographic Breakdowns:**
 
-**KPI Cards:** Revenue ($57M), Interest ($8M), Transaction Amount ($45.5M), Transaction Count (667.2K)
-
-**Quarter Filters:** Q1, Q2, Q3, Q4 for temporal analysis
-
-**Card Performance Table:** Revenue, transaction amounts, and interest by card type
-
-**Dual-axis Chart:** QTR revenue and transaction count correlation
-
-**Demographic Breakdowns:**
-
-- Revenue by expenditure type (6 categories)
-- Revenue by education level (6 levels)
-- Revenue by customer job (6 professions)
-- Customer acquisition cost by card type
-- Revenue by payment method (3 types)
-
+ - Revenue by expenditure type (6 categories)
+ - Revenue by education level (6 levels)
+ - Revenue by customer job (6 professions)
+ - Customer acquisition cost by card type
+ - Revenue by payment method (3 types)
 **Use Case:** Product management, marketing strategy, financial planning
 
 **Dashboard 2: Credit Card Customer Report**
@@ -174,17 +168,12 @@ Total Metrics:
 
 **Key Visualizations:**
 
-**KPI Cards:** Revenue, Interest, Total Income ($587.6M), Customer Satisfaction Score (3.19)
-
-**Revenue by Week:** Dual-line chart comparing male vs female trends (Jan-Oct 2023)
-
-**Age Group Analysis:** Stacked bars showing revenue by gender across age brackets
-
-**Customer Job Table:** Detailed metrics (revenue, interest, income) by profession
-
-**Geographic Analysis:** Top 5 states with gender split (TX, NY, CA, FL, NJ)
-
-**Demographic Segmentation:**
+- **KPI Cards:** Revenue, Interest, Total Income ($587.6M), Customer Satisfaction Score (3.19)
+- **Revenue by Week:** Dual-line chart comparing male vs female trends (Jan-Oct 2023)
+- **Age Group Analysis:** Stacked bars showing revenue by gender across age brackets
+- **Customer Job Table:** Detailed metrics (revenue, interest, income) by profession
+- **Geographic Analysis:** Top 5 states with gender split (TX, NY, CA, FL, NJ)
+- **Demographic Segmentation:**
 
  - Revenue by marital status (Married $29M, Single $24M)
  - Revenue by income group (High earners dominate at $30M)
@@ -299,7 +288,7 @@ COPY cust_detail FROM '/path/to/cust_add.csv' DELIMITER ',' CSV HEADER;
 - **Database:** ccdb
 
 4. Select both tables: cc_detail and cust_detail
-5. Click Load
+5. Click **Load**
 
 ### **Step 4: Create Data Model**
 
@@ -358,17 +347,16 @@ Previous_week_Revenue = CALCULATE(
 
 1. Create three separate report pages:
 
- - Page 1: Weekly Performance Dashboard
- - Page 2: Transaction Report
- - Page 3: Customer Report
-
+ - **Page 1:** Weekly Performance Dashboard
+ - **Page 2:** Transaction Report
+ - **Page 3:** Customer Report
 
 2. Add visualizations based on the dashboard screenshots provided in /images folder
 3. Apply formatting and color themes for professional appearance
 
 ## Results & Conclusion
 
-**Key Achievements**
+***Key Achievements***
 
 **1. Revenue Performance**
 
@@ -402,7 +390,7 @@ Previous_week_Revenue = CALCULATE(
 - Identified expansion opportunities in underperforming regions
 - Enabled regional marketing budget allocation based on performance data
 
-**Business Impact**
+***Business Impact***
 
 **Strategic Decision-Making**
 
@@ -435,7 +423,7 @@ Previous_week_Revenue = CALCULATE(
 - Created reusable DAX measures for consistent calculations across dashboards
 - Designed user-friendly interface with intuitive filters and drill-through capabilities
 
-**Limitations & Future Enhancements**
+***Limitations & Future Enhancements***
 
 **Current Limitations:**
 
@@ -446,22 +434,15 @@ Previous_week_Revenue = CALCULATE(
 **Recommended Enhancements:**
 
 **1. Predictive Analytics:** Implement forecasting models for revenue and delinquency prediction
-
 **2. Customer Lifetime Value:** Calculate CLV for targeted retention strategies
-
 **3. Churn Analysis:** Develop early warning system for customer attrition
-
 **4. Automated Alerts:** Set threshold-based notifications for critical KPIs
-
 **5. Mobile Optimization:** Create Power BI mobile layouts for on-the-go access
-
 **6. API Integration:** Connect to live transaction systems for real-time updates
-
 **7. Advanced Segmentation:** Apply clustering algorithms for micro-segmentation
-
 **8. Comparative Analysis:** Benchmark against industry standards and competitors
 
-**Conclusion**
+***Conclusion***
 
 This Credit Card Financial Dashboard project successfully transforms raw transactional data into actionable business intelligence, delivering comprehensive insights across revenue performance, customer behavior, and operational metrics. The interactive Power BI dashboards enable stakeholders to monitor $57M in annual revenue, analyze 667.2K transactions, and track critical KPIs including 57.5% activation rate and 6.06% delinquency rate.
 
@@ -492,7 +473,7 @@ The project not only meets its core objective of providing real-time operational
 
 ---
 
-### 📧 Get in Touch
+### Get in Touch
 - **LinkedIn**: [itsyournish](https://www.linkedin.com/in/itsyournish/)
 - **Email**: [itsyournish07@gmail.com](mailto:itsyournish07@gmail.com)
 
