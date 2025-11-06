@@ -491,10 +491,4 @@ The project not only meets its core objective of providing real-time operational
 
 ---
 
-### Get in Touch
-- **LinkedIn**: [itsyournish](https://www.linkedin.com/in/itsyournish/)
-- **Email**: [itsyournish07@gmail.com](mailto:itsyournish07@gmail.com)
-
----
-
 *💼 Open to collaborations and new opportunities in Data Analytics & Business Intelligence*
