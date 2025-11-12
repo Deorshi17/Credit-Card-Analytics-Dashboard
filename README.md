@@ -358,8 +358,8 @@ Previous_week_Revenue = CALCULATE(
 
 1. Create three separate report pages:
 
- - **Page 1:** Customer Transaction Report
- - **Page 2:** Customer Report Report
+ - **Page 1:** Credit Card Transaction Report
+ - **Page 2:** Credit Card Customer Report
  - **Page 3:** Weekly Performance Dashboard
 
 2. Add visualizations based on the dashboard screenshots provided in /images folder
